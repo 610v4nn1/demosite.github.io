@@ -2,7 +2,7 @@ title: Class Website
 description: A Jekyll website for class materials
 baseurl: ""
 url: ""
-theme: jekyll-theme-minima
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
